@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Meine neue Webseite</title>
+    <link>http://example.org/</link>
+    <description>Recent content on Meine neue Webseite</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sat, 28 Jul 2018 21:59:38 +0200</lastBuildDate>
+    
+	<atom:link href="http://example.org/index.xml" rel="self" type="application/rss+xml" />
+    
+    
+    <item>
+      <title>Mein erster Post</title>
+      <link>http://example.org/post/2018/07/28_erster_post/</link>
+      <pubDate>Sat, 28 Jul 2018 21:59:38 +0200</pubDate>
+      
+      <guid>http://example.org/post/2018/07/28_erster_post/</guid>
+      <description> Überschrift Subtitle  Das ist toll Das wohl auch &amp;hellip;  Hier kommt mein Text&amp;hellip;
+ Punkt 1 Punkt 2   What&amp;rsquo;s up?  Link zu meinem Artikel
+Schreibe hugo new post/mein_post.md in den Editor.
+ Sein oder nicht sein
+ Mehrere Zeilen  </description>
+    </item>
+    
+  </channel>
+</rss>
